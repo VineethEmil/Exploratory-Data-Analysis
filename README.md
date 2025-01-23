@@ -32,3 +32,6 @@ You are expected to use EDA methods to understand how consumer attributes and lo
 This project aims to identify patterns which indicate if a client has difficulty paying their instalments. This information can be used to derive insights to take actions such as denying the loan, reducing the amount of loan, lending at a higher interest rate etc.. Thus ensuring that the consumers capable of repaying the loan are not rejected.
 
 The aim is to figure out the driving factors behind loan defaults. This information can be used in risk assesment.
+
+
+The dataset and its instructions can be downloaded from the following link: https://drive.google.com/drive/folders/16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB
